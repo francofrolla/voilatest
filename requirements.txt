@@ -1,3 +1,7 @@
 voila
 voila-material
-bqplot
+geemap
+os
+ee
+geemap
+ipywidgets
