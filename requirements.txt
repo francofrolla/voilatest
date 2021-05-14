@@ -1,7 +1,6 @@
 voila
 voila-material
 geemap
-os
 ee
 geemap
 ipywidgets
